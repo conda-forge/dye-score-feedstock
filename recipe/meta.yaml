@@ -1,7 +1,7 @@
 {% set name = "dye-score" %}
-{% set version = "0.9.0" %}
+{% set version = "0.10.0" %}
 {% set hash_type = "sha256" %}
-{% set hash = "66a6b7f6752041120079fecfbda9c970f75c51ba4fdcc348f20cec7cf788071b" %}
+{% set hash = "34c6ef502fc742b24fa2bacb42be0dc7712d4cac2fd6adc71a3e4f785d1234db" %}
 
 package:
   name: {{ name }}
